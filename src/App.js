@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="head">
       <div className="nav-bar">
-        <h1>Super Convertor</h1>
+        <h1>Super Converter</h1>
       </div>
       <div className="body-content">
         <select className="Selection" value={index} onChange={onSelect}>
